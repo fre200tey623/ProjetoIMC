@@ -1,2 +1,2 @@
 # Projeto-IMC
- Projeto de uma calculadora IMC utilizando a linguagem Swift
+ Projeto de uma calculadora IMC utilizando a linguagem Swift. <br/>
